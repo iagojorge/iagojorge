@@ -1,4 +1,4 @@
-## Oi eu sou o Iago Jorge, desenvolvedor Front-end
+## Olá me chamo Iago, desenvolvedor Front-end
 
 Minhas principais tecnologias são:
 
